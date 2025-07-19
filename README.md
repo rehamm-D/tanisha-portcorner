@@ -1,4 +1,4 @@
-# Tanisha Portcorner 🪄  
+# Tanisha's Portcorner 🪄  
 My expressive portfolio built with Next.js, Tailwind CSS & Framer Motion
 
 Welcome to my creative corner of the internet —  

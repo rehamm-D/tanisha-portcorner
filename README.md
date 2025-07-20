@@ -1,5 +1,5 @@
 # Tanisha's Portcorner 🪄  
-My expressive portfolio built with Next.js, Tailwind CSS & Framer Motion
+My expressive portfolio built with Next.js, Tailwind CSS & Framer Motion.
 
 Welcome to my creative corner of the internet —  
 a digital space where design meets emotion, and where technology listens before it speaks.
